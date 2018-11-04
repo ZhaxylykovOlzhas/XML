@@ -1,0 +1,49 @@
+{
+  "Car1": {
+    "NameOfVersion": "M3",
+    "Brand": "Hammer",
+    "ProductYear": "1993",
+    "Type": "Rover",
+    "Mass": "5030"
+  },
+
+
+  "Car2": {
+    "NameOfVersion": "Juke",
+    "Brand": "Nissan",
+    "ProductYear": "2016",
+    "Type": "Crossover",
+    "Mass": "2045.4"
+  },
+  "Car3": {
+    "NameOfVersion": "Chiron",
+    "Brand": "Bugatti",
+    "ProductYear": "2016",
+    "Type": "Sport",
+    "Mass": "1888"
+  },
+
+
+  "Person": {
+    "FullName": "Joseph Jostar",
+    "Age": "79",
+    "HairColor": "Gray",
+    "Married": "true"
+  },
+
+  "Person2": {
+    "FullName": "Rudolf von Stroheim",
+    "Age": "54",
+    "HairColor": "Gray",
+    "Married": "false"
+  },
+
+  "Person3": {
+    "FullName": "Jotaro Kujo",
+    "Age": "40",
+    "HairColor": "Black",
+    "Married": "true"
+  }
+
+
+}

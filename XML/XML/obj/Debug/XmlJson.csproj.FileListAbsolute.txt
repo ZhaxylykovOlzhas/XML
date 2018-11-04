@@ -1,0 +1,7 @@
+C:\Users\Олжас\Desktop\XmlAndJson-master\XmlJson\XmlJson\bin\Debug\XmlJson.exe.config
+C:\Users\Олжас\Desktop\XmlAndJson-master\XmlJson\XmlJson\bin\Debug\XmlJson.exe
+C:\Users\Олжас\Desktop\XmlAndJson-master\XmlJson\XmlJson\bin\Debug\XmlJson.pdb
+C:\Users\Олжас\Desktop\XmlAndJson-master\XmlJson\XmlJson\obj\Debug\XmlJson.csprojAssemblyReference.cache
+C:\Users\Олжас\Desktop\XmlAndJson-master\XmlJson\XmlJson\obj\Debug\XmlJson.csproj.CoreCompileInputs.cache
+C:\Users\Олжас\Desktop\XmlAndJson-master\XmlJson\XmlJson\obj\Debug\XmlJson.exe
+C:\Users\Олжас\Desktop\XmlAndJson-master\XmlJson\XmlJson\obj\Debug\XmlJson.pdb

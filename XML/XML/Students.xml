@@ -1,0 +1,22 @@
+﻿<Student>
+  <Student
+  Name= "Zhaxylykov Olzhas"
+  Age ="20"
+  StudentYear="4"
+  AverageRating ="93"
+/>  
+  <Student
+  Name= "Abilda Didar"
+  Age ="18"
+  StudentYear="1"
+  AverageRating ="75"
+/>  
+
+<Student
+  Name= "Zhaxylykov Rustem"
+  Age ="18"
+  StudentYear="2"
+  AverageRating ="85"
+
+/>  
+</Student>
